@@ -6,7 +6,7 @@
   <link href="http://genesisgod.cn/atom.xml" rel="self"/>
   
   <link href="http://genesisgod.cn/"/>
-  <updated>2024-10-19T11:10:38.489Z</updated>
+  <updated>2025-03-18T13:11:55.249Z</updated>
   <id>http://genesisgod.cn/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://genesisgod.cn/2025/03/18/%E6%A0%BC%E5%AF%86%E7%A0%81/"/>
+    <id>http://genesisgod.cn/2025/03/18/%E6%A0%BC%E5%AF%86%E7%A0%81/</id>
+    <published>2025-03-18T13:11:55.249Z</published>
+    <updated>2025-03-18T13:11:55.249Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css&quot;&gt;&lt;scrip</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
